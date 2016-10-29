@@ -1,0 +1,17 @@
+commit 09848e6f623680af2883fa7b9ff3063ae4fae302
+Author: abd <buenos_tiempos@outlook.com>
+Date:   Sat Oct 29 10:42:57 2016 -0500
+
+    iniciando curso
+
+commit f18b60489a893837cb0dfa501005a6cba65a4778
+Author: abd <buenos_tiempos@outlook.com>
+Date:   Sat Oct 29 10:39:17 2016 -0500
+
+    iniciendo curso
+
+commit b4217aca082d44473a9405fe0b0ec1049392b489
+Author: abd <buenos_tiempos@outlook.com>
+Date:   Sat Oct 29 10:29:34 2016 -0500
+
+    iniciando curso
